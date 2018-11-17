@@ -1,5 +1,5 @@
 {
-  "name": "react-lite",
+  "name": "rr-component-utils",
   "reason": {
     "react-jsx": 2
   },
@@ -8,8 +8,7 @@
     "subdirs" : true
   },
   "package-specs": [{
-    "module": "commonjs",
-    "in-source": true
+    "module": "commonjs"
   }],
   "suffix": ".bs.js",
   "namespace": true,
